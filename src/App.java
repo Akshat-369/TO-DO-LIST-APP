@@ -6,7 +6,6 @@ public class App {
             @Override
             public void run() {
                 new ToDoListGui().setVisible(true);
-
             }
         });
     }
